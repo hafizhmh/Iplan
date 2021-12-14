@@ -70,11 +70,11 @@
 ### Wireless Topology Modes
 
 - Adhoc: Client peer-to-peer
-  ![Adhoc](img\topology-modes-adhoc.png)
+  ![Adhoc](img/topology-modes-adhoc.png)
 - Infrastructure: Connect client to the network through AP
-  ![Infrastructure](img\topology-modes-infrastructure.png)
+  ![Infrastructure](img/topology-modes-infrastructure.png)
 - Tethering: Sharing network/cellular access as a personal hotspot
-  ![Tethering](img\topology-modes-tethering.png)
+  ![Tethering](img/topology-modes-tethering.png)
 
 ### Topology blocks
 
