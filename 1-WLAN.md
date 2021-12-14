@@ -1,7 +1,5 @@
 # WLAN
 
----
-
 ## _Introduction_
 
 ### Tipe Wireless Network
